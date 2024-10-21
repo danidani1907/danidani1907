@@ -2,7 +2,7 @@
 
 - 👋 ola pessoal tudo bem com voces ? it´s Dani here
 - student from Senai de desenvolvemento de sistemas , /second year of High School
-- 16 years
+- 17 years
 - she/her  or ela /dela
 - a person who loves cinema and tecnology!
  
