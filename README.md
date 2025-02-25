@@ -1,4 +1,6 @@
-![65a4e48b07107a142b3667a47466ae0e](https://github.com/user-attachments/assets/3080d4b5-0e87-4c57-b566-6400da6c8752)
+
+![Sem nome (100 x 70 px) (300 x 400 px) (400 x 300 px) (2)](https://github.com/user-attachments/assets/c6b76a69-2ff6-4b87-815b-9cc66b9fe119)
+
 
 - 👋 ola pessoal tudo bem com voces ? it´s Dani here
 - student from Senai de desenvolvemento de sistemas , /last year of High School
