@@ -1,6 +1,6 @@
 #  Hello it´s Danielli hereᯓ★
 
-**student from <img width="50" height="55" alt="image" src="https://github.com/user-attachments/assets/9b7dbf80-8c6d-4888-8859-9178315e85a0" /> de desenvolvimento de sistemas /last year of High School**
+**<img width="50" height="55" alt="image" src="https://github.com/user-attachments/assets/9b7dbf80-8c6d-4888-8859-9178315e85a0" /> student of systems development**
 
      ✮ 17 years old
      a violinist 𝄞 who loves history and programming
