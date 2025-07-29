@@ -1,5 +1,5 @@
 #  Hello it´s Danielli hereᯓ★
-
+ 
 **<img width="50" height="55" alt="image" src="https://github.com/user-attachments/assets/9b7dbf80-8c6d-4888-8859-9178315e85a0" /> student of systems development**
 
      ✮ a 17 years old violinist 𝄞 who loves history and programming
@@ -93,3 +93,9 @@
 <a href = "mailto:danielli.freitas1907@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danielli-de-freitas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<br>
+
+ ![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=C23D3D&center=true&vCenter=true&width=940&lines=demostração+de+sites+que+desenolvi+com...;frontend!)
+<img width="1886" height="866" alt="image" src="https://github.com/user-attachments/assets/813dd66c-2719-421a-a337-77b87bd3b39e" />
+
